@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/cut4">
+        <file>images/open.png</file>
+        <file>images/play.png</file>
+        <file>images/save.png</file>
+        <file>images/save_as.png</file>
+        <file>images/3dglasses.png</file>
+        <file>images/camera.png</file>
+    </qresource>
+</RCC>
