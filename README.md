@@ -1,11 +1,12 @@
 Shift 2D
 ==========================
-Target is to provide a simple Qt/C++ 3D Interface. Life's too short to learn shaders. And Qt3D has (IMHO) too much overhead. Qt delivers everything you need (QOpenGLWidget, QOpenGLShader). Why not having just a KISS-Interface for simple 3D-Apps?
+Just a quick and easy-to-use Desktop App for creating red/cyan Anaglyph Images.
 
-- [x] Hello world in just a few lines of code.
-- [x] Just Qt, OpenGL and C++. No extra dependencies.
-- [x] Class-Library. Just include the profile. Step through the code.
-- [ ] API unstable! Work in progress...
+Features:
+- Multiple Layers
+- Render Preview
+- Multiple Anaglyph Color Standards
+- Project can be saved and loaded
 
 ![Shift2d](screenshots/overview.png)
 
